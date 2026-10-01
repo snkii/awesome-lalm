@@ -308,5 +308,15 @@
         "code":  null,
         "data":  null,
         "focus":  "unanswerable-question detection and abstention behavior in audio question answering"
+    },
+    {
+        "name":  "VoxParity",
+        "release":  "2026-09",
+        "organization":  "Independent",
+        "venue":  "arXiv\u002726",
+        "paper":  "https://arxiv.org/abs/2609.35922",
+        "code":  "https://github.com/bhavik-mangla/voxparity-bench",
+        "data":  "https://huggingface.co/datasets/bhavikmangla/voxparity-dev",
+        "focus":  "whether voice agents\u0027 tool calls change when only the audio (tone, background sound, a second voice) changes and the words stay fixed"
     }
 ]
