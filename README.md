@@ -215,6 +215,7 @@ Evaluation benchmarks for audio understanding and reasoning, sorted by first rel
 | **AudioMCQ** | 2025-09 | Ant Group (InclusionAI) | ICLR'26 | [📄](https://arxiv.org/abs/2509.21060) | [💻](https://github.com/inclusionAI/AudioMCQ) | [🗂️](https://huggingface.co/datasets/inclusionAI/AudioMCQ) | 571k audio MCQs with dual CoT annotations and weak/strong audio-contribution splits |
 | **AudioMarathon** | 2025-10 | SJTU & Shanghai AI Lab | arXiv'25 | [📄](https://arxiv.org/abs/2510.07293) | [💻](https://github.com/DabDans/AudioMarathon) | [🗂️](https://huggingface.co/datasets/Hezep/AudioMarathon) | long-context audio understanding and inference efficiency over 90-300s speech, sound, music |
 | **AQUA-Bench** | 2026-01 | National Taiwan University | arXiv'26 | [📄](https://arxiv.org/abs/2601.12248) | — | — | unanswerable-question detection and abstention behavior in audio question answering |
+| **ART** | 2026-03 | Samsung | EACL'26 | [📄](https://aclanthology.org/2026.eacl-long.42/) | [💻](https://github.com/SamsungLabs/ART) | — | a benchmark for assessing the ability of LALMs to solve problems that require reasoning over audio signal |
 
 ---
 
